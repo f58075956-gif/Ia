@@ -1,0 +1,7 @@
+ollama>=0.3.0
+flask>=3.0.0
+requests>=2.31.0
+# duckduckgo-search se renombró a "ddgs". Si "ddgs" falla al instalar en tu
+# entorno (por ejemplo Termux con pip viejo), probá con duckduckgo-search:
+#   pip install duckduckgo-search
+ddgs>=9.0.0
